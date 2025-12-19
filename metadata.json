@@ -1,0 +1,7 @@
+{
+  "name": "ClearCast AI - Advanced Watermark Remover",
+  "description": "A high-performance AI-powered tool that leverages Gemini 2.5 Flash Image to seamlessly remove watermarks, logos, and unwanted objects from images with pixel-perfect inpainting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
